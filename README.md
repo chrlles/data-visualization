@@ -2,7 +2,7 @@
 
 #### Desenvolvimento de um pipeline de visualização de dados utilizando as bibliotecas Pandas, Matplotlib e Seaborn. O projeto foca em transformar dados brutos em insights visuais claros, facilitando a interpretação de padrões e tendências.
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Pandas, Numpy, Sklearn, Prophet, Scipy, Seaborn e Matplolib**
 
