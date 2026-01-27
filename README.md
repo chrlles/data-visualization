@@ -3,7 +3,7 @@
 #### Etapa 1: Preparação e Exploração Importação das bibliotecas e leitura da base de dados para uma compreensão inicial da estrutura das informações.
 
 
-####  Etapa 2: Processamento e Filtragem Após a análise exploratória, os dados foram tratados e filtrados para responder às seguintes perguntas de negócio:<br>
+####  Etapa 2: Processamento e Filtragem Após a análise exploratória, os dados foram tratados e filtrados para responder às seguintes perguntas:<br>
 #####  -  Qual o volume da imigração brasileira para o Canadá entre 1980 e 2013?<br>
 #####  -  Quais são os 10 países com maior fluxo migratório para o Canadá nesse período?<br>
 #####  -  Quais países da América do Sul apresentam os maiores números de imigrantes?
