@@ -8,7 +8,7 @@
 #####  -  Quais são os 10 países com maior fluxo migratório para o Canadá nesse período?<br>
 #####  -  Quais países da América do Sul apresentam os maiores números de imigrantes?
 
-#### Etapa 3: Visualização de Dados Para extrair insights visuais, utilizamos as bibliotecas **Matplotlib** e **Seaborn**.
+#### Etapa 3: Visualização de Dados Para extrair insights visuais, utilizamos as bibliotecas Matplotlib** e **Seaborn.
 <img width="3121" height="1387" alt="imigracao_america_sul" src="https://github.com/user-attachments/assets/c203b032-9dc3-484c-bd2f-887820d2120c" />
 
 
