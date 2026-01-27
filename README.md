@@ -9,6 +9,8 @@
 #####  -  Quais países da América do Sul apresentam os maiores números de imigrantes?
 
 #### Etapa 3: Visualização de Dados Para extrair insights visuais, utilizamos as bibliotecas Matplotlib e Seaborn.
+<img width="2162" height="1314" alt="imigracao_brasil_canada" src="https://github.com/user-attachments/assets/9a5ddf49-e33a-4020-baa5-189b84f63d88" />
+<img width="3121" height="1387" alt="imigracao_america_sul" src="https://github.com/user-attachments/assets/c203b032-9dc3-484c-bd2f-887820d2120c" />
 
 
 ***Observamos que a imigração do Brasil para o Canadá não é apenas crescente, mas deu um salto a partir dos anos 2000, atingindo seu ápice entre 2006 e 2010. No contexto regional, uma comparação entre todos os países da América do Sul destacou o Brasil como o 4º país com maior número de imigrantes destinados ao território canadense.***
