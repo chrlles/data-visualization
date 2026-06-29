@@ -14,5 +14,8 @@
 <br>
 ***Observamos que a imigração do Brasil para o Canadá não é apenas crescente, mas deu um salto a partir dos anos 2000, atingindo seu ápice entre 2006 e 2010.***
 
+<img width="3121" height="1387" alt="imigracao_america_sul" src="https://github.com/user-attachments/assets/91be581f-4087-4484-b2b9-50bfaa7f1c66" />
+
+
 
 
