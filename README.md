@@ -16,6 +16,8 @@
 
 <img width="3121" height="1387" alt="imigracao_america_sul" src="https://github.com/user-attachments/assets/91be581f-4087-4484-b2b9-50bfaa7f1c66" />
 
+*** Já neste grafíco podemos observar que entre os países da America do Sul o Brasil é o quarto com o maior número de imigrantes no Canadá no período entre 1980 a 2013.
+
 
 
 
